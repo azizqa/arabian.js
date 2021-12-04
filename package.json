@@ -1,6 +1,6 @@
 {
   "name": "arabian.js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A lightweight utility that helps with Arabic digits & date conversions & some useful utils.",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/azizqa/arabic.js/issues"
   },
-  "homepage": "https://github.com/azizqa/arabic.js#readme"
+  "homepage": "https://github.com/azizqa/arabic.js#readme",
+  "readme": "README.md"
 }
