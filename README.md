@@ -1,10 +1,10 @@
-# arabic.js
+# arabian.js
 A lightweight utility that helps with Arabic digits & date conversions & some useful utils.
 
 ## Install and usage
 
 ```sh
-npm i arabic.js
+npm i arabian.js
 ```
 
 ## Example
