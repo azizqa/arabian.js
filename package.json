@@ -1,5 +1,5 @@
 {
-  "name": "arabic.js",
+  "name": "arabian.js",
   "version": "1.0.0",
   "description": "A lightweight utility that helps with Arabic digits & date conversions & some useful utils.",
   "main": "index.js",
