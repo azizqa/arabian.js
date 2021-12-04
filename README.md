@@ -9,7 +9,7 @@ npm i arabian.js
 
 ## Example
 ```js
-const arjs = require('arabic.js');
+const arjs = require('arabian.js');
 
 console.log(arjs.convertNumbers(12)); // ١٢
 console.log(arjs.monthName(0)); // يناير
