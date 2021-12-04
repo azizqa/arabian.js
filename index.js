@@ -116,5 +116,3 @@ exports.dateFormat = (date) => {
         TT
     }
 }
-
-console.log(exports.dateFormat(new Date()));
