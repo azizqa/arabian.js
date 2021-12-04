@@ -29,7 +29,7 @@ console.log(arjs.monthName(0)); // يناير
 **Has Arabic text and numbers** `.hasText("السبت، ٤ ديسمبر، ٢٠٢١، ٥٤:١٩:١٨ مساءً") → true`
 
 **Formatted date** `.dateFormat(new Date()) → `
-```json
+```
 {
   formatted: 'السبت، ٤ ديسمبر، ٢٠٢١، ٥٤:١٩:١٨ مساءً',
   dayName: 'السبت',
