@@ -44,4 +44,4 @@ console.log(arjs.monthName(0)); // يناير
 ```
 
 ## TODO
-- [ ] Support typescript
+- [x] Support typescript

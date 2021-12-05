@@ -1,6 +1,6 @@
 {
   "name": "arabian.js",
-  "version": "1.0.2",
+  "version": "1.0.3-dev",
   "description": "A lightweight utility that helps with Arabic digits & date conversions & some useful utils.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
