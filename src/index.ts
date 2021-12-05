@@ -123,7 +123,7 @@ export const dateFormat = (date: Date) => {
     formatted: `${day}، ${d} ${month}، ${year}، ${seconds}:${minutes}:${hours} ${TT}`,
     day,
     d,
-    monthName,
+    month,
     year,
     hours,
     minutes,
