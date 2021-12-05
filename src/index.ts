@@ -68,8 +68,7 @@ export const convertEnglishNumbers = (n: string | number, int = false) => {
   if (int) {
     return parseInt(result, 10);
   }
-  // add option for decimals
-
+  
   return result;
 };
 
