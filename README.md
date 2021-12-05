@@ -15,6 +15,14 @@ console.log(arjs.convertNumbers(12)); // ١٢
 console.log(arjs.monthName(0)); // يناير
 ```
 
+### For typescript
+```ts
+import arjs from 'arabian.js';
+
+console.log(arjs.convertNumbers(12)); // ١٢
+console.log(arjs.monthName(0)); // يناير
+```
+
 ## Methods
 **English numbers** `.convertNumbers("2021") → ٢٠٢١`
 
