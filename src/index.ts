@@ -93,16 +93,16 @@ export const dayName = (dayNumber: number) => {
  *
  * @param text {string} if the text has arabic numbers
  */
-export const hasNumbers = (text: string) => {
-  return text.match(arabicDigitsRegex);
+export const hasNumbers = (text: string): boolean => {
+  return arabicDigitsRegex.test(text);
 };
 
 /**
  *
  * @param text {string} if the text has arabic text
  */
-export const hasText = (text: string) => {
-  return text.match(arabicRegex);
+export const hasText = (text: string): boolean => {
+  return arabicRegex.test(text);
 };
 
 /**
