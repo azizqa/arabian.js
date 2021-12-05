@@ -17,7 +17,7 @@ console.log(arjs.monthName(0)); // يناير
 
 ### For typescript
 ```ts
-import arjs from 'arabian.js';
+import * as arjs from 'arabian.js';
 
 console.log(arjs.convertNumbers(12)); // ١٢
 console.log(arjs.monthName(0)); // يناير
