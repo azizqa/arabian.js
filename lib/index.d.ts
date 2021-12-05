@@ -23,12 +23,12 @@ export declare const dayName: (dayNumber: number) => string;
  *
  * @param text {string} if the text has arabic numbers
  */
-export declare const hasNumbers: (text: string) => RegExpMatchArray | null;
+export declare const hasNumbers: (text: string) => boolean;
 /**
  *
  * @param text {string} if the text has arabic text
  */
-export declare const hasText: (text: string) => RegExpMatchArray | null;
+export declare const hasText: (text: string) => boolean;
 /**
  *
  * @param date {date} a date object
@@ -37,7 +37,7 @@ export declare const dateFormat: (date: Date) => {
     formatted: string;
     day: string;
     d: string;
-    monthName: (monthNumber: number) => string;
+    month: string;
     year: string;
     hours: string;
     minutes: string;
